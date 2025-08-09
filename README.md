@@ -9,3 +9,6 @@ Um carrossel elegante com transições laterais contendo 3 imagens para exemplo.
 
 ## Visão Geral
 Esse componente permite criar um carrossel ideal para exibir imagens de produtos ou destaque.
+
+## Link
+[👉 Veja o projeto funcionando:](https://carrosel-animado.vercel.app/)

@@ -47,14 +47,6 @@ Durante o desenvolvimento deste projeto, foram trabalhados conceitos como:
 * `transform: translateX()`;
 * Transições com CSS.
 
-## 🚀 Possíveis melhorias
-
-* [ ] Tornar o carrossel totalmente responsivo;
-* [ ] Adicionar navegação por indicadores;
-* [ ] Implementar reprodução automática;
-* [ ] Adicionar suporte a gestos de swipe em dispositivos móveis;
-* [ ] Permitir navegação pelo teclado.
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
